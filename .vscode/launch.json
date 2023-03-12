@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "TestIt",
+            "request": "launch",
+            "mainClass": "Interface.TestIt",
+            "projectName": "go_vscode_4d05e7fb"
+        },
+        {
+            "type": "java",
+            "name": "Ex",
+            "request": "launch",
+            "mainClass": "Interface.Ex",
+            "projectName": "go_vscode_4d05e7fb"
+        },
+        {
+            "type": "java",
+            "name": "person",
+            "request": "launch",
+            "mainClass": "TEST.person",
+            "projectName": "go_vscode_4d05e7fb"
+        },
+        {
             "name": "Launch Package",
             "type": "go",
             "request": "launch",
